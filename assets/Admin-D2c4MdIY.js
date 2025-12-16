@@ -1,0 +1,1 @@
+import{j as e,O as t}from"./index-_YvQX6nz.js";function l(){return e.jsx("div",{className:"flex min-h-dvh w-full flex-col flex-wrap items-center justify-center gap-5 py-25",dir:"ltr",children:e.jsx(t,{})})}export{l as default};

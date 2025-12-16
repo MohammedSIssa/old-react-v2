@@ -1,0 +1,1 @@
+const o=new Map;async function a(e){if(o.has(e))return console.log("From cache:",e),o.get(e);const t=await fetch(e);if(!t.ok)return[];const c=await t.json();return o.set(e,c),c}function n(e){console.log("Deleting from cache:",e),console.log(o.has(e)),o.delete(e)}export{n as d,a as f};

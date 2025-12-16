@@ -1,0 +1,1 @@
+import{A as c}from"./globals-mhpEhTSX.js";const r=async(t,o)=>{const e=new Date().toLocaleTimeString(),a=new Date().toLocaleDateString(),n=navigator.platform+"",s=t??"Guest";await fetch(`${c}/log`,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({visitedAt:`${e} - ${a}`,os:n,url:o,username:s})})};export{r as l};

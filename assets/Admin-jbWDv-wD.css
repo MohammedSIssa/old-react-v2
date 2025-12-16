@@ -1,0 +1,1 @@
+input{direction:rtl}[dir=ltr]{direction:ltr!important}textarea{min-width:100%;max-width:100%;min-height:170px;max-height:170px;direction:rtl;resize:none}form{height:fit-content!important;max-width:100%}@media(max-width:700px){form{width:100%!important;min-width:300px}}
