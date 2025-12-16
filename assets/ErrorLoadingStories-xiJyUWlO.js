@@ -1,0 +1,1 @@
+import{j as r}from"./index-uj4nuE0e.js";const t=()=>r.jsx("div",{className:"flex h-dvh flex-col items-center justify-center text-3xl font-bold text-red-400",children:"☠️ Error Loading Stories ☠️"});export{t as E};

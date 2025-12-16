@@ -1,0 +1,1 @@
+import{j as e,N as t}from"./index-uj4nuE0e.js";const l=()=>e.jsxs("div",{className:"flex h-dvh flex-col items-center justify-center gap-5",children:[e.jsx("h1",{className:"text-xl font-bold md:text-2xl",children:"هذه الصفحة غير موجودة"}),e.jsx(t,{className:"text-violet-300",to:"/",children:"الذهاب للصفحة الرئيسية"})]});export{l as default};

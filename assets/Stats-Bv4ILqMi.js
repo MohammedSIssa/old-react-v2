@@ -1,0 +1,1 @@
+import{j as t,O as e}from"./index-uj4nuE0e.js";import{s}from"./stats-data-CauiwilB.js";import{S as r}from"./Stories-C3Gl2MMF.js";import"./globals-mhpEhTSX.js";import"./cache-UbEKbjRU.js";const p=()=>t.jsxs("div",{className:"flex flex-col gap-5",children:[t.jsx(r,{type:"stat",data:[...s].reverse()}),t.jsx(e,{context:{latestStory:s.length}})]});export{p as default};
